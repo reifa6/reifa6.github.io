@@ -19,10 +19,9 @@ p {
 body {
         background-image:url("https://raw.githubusercontent.com/reifa6/img/master/701802.jpg");
         background-attachment: fixed;
-        background-size: cover;: }
-    }
+        background-size: cover; }
 
-}
+
 h2 {
     text-align: center;
 }
