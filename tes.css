@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    float: right;
+    border: 1px dotted black;
+    border-radius: 50%;
+    
+}
+ul {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32;
+   }
+p {
+    color: darkblue;
+}   
+body {
+        background-image:url("https://raw.githubusercontent.com/reifa6/img/master/701802.jpg");
+        background-attachment: fixed;
+        background-size: cover;: }
+    }
+
+}
+h2 {
+    text-align: center;
+}
